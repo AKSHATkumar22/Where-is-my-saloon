@@ -15,7 +15,7 @@ nav {
   justify-content: center;
   /* min-height: 100vh; */
   text-decoration-line: none;
-  align-items: center;
+  /* align-items: center; */
 }
 .nav-ul {
   font-size: 20px;
